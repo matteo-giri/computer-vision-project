@@ -7,5 +7,7 @@ For the implementation of a solution to Step A of the task, open [Step A](<Step 
 ![Step A Example](examples/stepA_example.JPG)
 ## Step B
 For the implementation of a solution to Step B of the task, open [Step B](<Step B Giri Matteo.ipynb>).
+![Step B Example](examples/stepB_example.JPG)
 ## Step C
 For the implementation of a solution to Step C of the task, open [Step C](<Step C Giri Matteo.ipynb>).
+![Step C Example](examples/stepC_example.JPG)
